@@ -1,5 +1,7 @@
 # Simple Notes App
 This is a simple notes app built with React and Django.
+![image](https://github.com/user-attachments/assets/a58c261f-3edd-4b9a-b784-cb01be3e1c29)
+
 
 ## Requirements
 1. Python 3.9
